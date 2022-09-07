@@ -1,5 +1,15 @@
 # projeto-front-end-001
 
-💻 Projeto em HTML5 e CSS3. Um site one page de posts para um blog.
+💻 Projeto em HTML5 e CSS3: Bio page. Um site pessoal para artigos e outras informações.
 
-Acesse: <a href="https://udanielnogueira.github.io/projeto-front-end-001/" target="_blank">Projeto 001</a>
+## Bio page
+
+Aquele site one page popular para exibir informações pessoais e portfólio.
+
+### Acesse
+
+https://udanielnogueira.github.io/projeto-front-end-001/
+
+### Preview
+
+![Preview do projeto](preview-001.png "Bio page")
