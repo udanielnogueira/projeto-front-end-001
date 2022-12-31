@@ -4,12 +4,12 @@
 
 ## Bio page
 
-Aquele site one page popular para exibir informações pessoais e portfólio.
+Site one page para exibir informações pessoais e portfólio.
 
-### Acesse
+## Acesse
 
 https://udanielnogueira.github.io/projeto-front-end-001/
 
-### Preview
+## Preview
 
 ![Preview do projeto](preview-001.png "Bio page")
