@@ -4,7 +4,7 @@
 
 ## Bio page
 
-Site one page para exibir informações pessoais e portfólio.
+Blog pessoal para postagens e outras informações.
 
 ## Acesse
 
